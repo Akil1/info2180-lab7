@@ -1,4 +1,4 @@
-h1{
+/*h1{
     font-size: 40px;
 	font-weight: bold;
 	border-bottom: 1px solid black; 
@@ -8,4 +8,40 @@ h1{
 
 #controls{
     
+} */
+
+#page_name {
+    text-align: center;
+    background-color: #808080;
+    width: 800px;
+    height: 80px;
+    padding: 10px;
+    
 }
+
+h1 {
+    text-align: left;
+    color: black;
+    font-family: 'Comic Sans MS', Georgia, Serif;
+}
+
+
+#controls {
+    background-color: #E5E4E2;
+    width: 780px;
+    height: auto;
+    padding: 20px;
+}
+
+
+#lookup {
+    background-color: tomato;
+    color: #FFFFFF;
+    height: 28px;
+}
+
+#country {
+    height: 30px;
+    width: 40%
+}
+
